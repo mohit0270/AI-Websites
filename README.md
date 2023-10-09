@@ -1,7 +1,8 @@
 # Ideas
 
-- Latest news about AI every Friday / Saturday
 - News tab
+- Latest news about AI every Friday / Saturday
+- Newsletters every weekend
 - Recently added 
 - A sponsors cart at the starting
 
@@ -17,3 +18,7 @@
   - Pros and Cons of that tool
   - Rating of that tool
   - My review about that tool and things that can be added
+
+- Youtube channel, Instagram, Twitter backlinks to website
+  - Every Saturday whole week recap in one video
+  - Every month rnd monthly recap
